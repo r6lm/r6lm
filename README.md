@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋. I'm Rodrigo</h1>
+<h1 align="center">Mari mari wenhüy 🫱🏼🫲🏼 Inche Rodrigo Pigen</h1>
 
 ### **About me**
 
