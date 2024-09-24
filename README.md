@@ -1,4 +1,4 @@
-<h1 align="center">Mari mari wenhüy <a href="https://es.pinterest.com/pin/397231629638321031/">*</a> 🙌🏼🙌🏼. I'm Rodrigo 😀</h1>
+<h1 align="center">Mari mari wenhüy 🙌🏼<a href="https://es.pinterest.com/pin/397231629638321031/">*</a>🙌🏼. I'm Rodrigo 😀</h1>
 
 ### **About me**
 
