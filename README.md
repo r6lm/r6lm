@@ -12,4 +12,5 @@
 
 ### Contact
 
-LinkedIn: [Rodrigo Molina](www.linkedin.com/in/rodrigo-lara-molina-0568175)
+- [ORCID](https://orcid.org/0009-0005-9052-3992)
+- [LinkedIn](www.linkedin.com/in/rodrigo-lara-molina-0568175)
