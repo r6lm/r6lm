@@ -3,7 +3,7 @@
 ### **About me**
 
 - 🎓 I’m currently in my 2<sup>nd</sup> year of the **[Center for Doctoral training in AI for Biomedical Innovation](https://www.ai4biomed.io/)** at the **[School of Informatics, University of Edinburgh](https://en.wikipedia.org/wiki/School_of_Informatics,_University_of_Edinburgh)**.
-- 🔭 I'm working on **simulation-based inference** and **Bayesian experimental design** to better understand **antibiotic resistance**, under the supervision of [**Michael Gutmann**](https://michaelgutmann.github.io/) and [**Andrea Weisse**](https://chwag.github.io/people/andreaWeisse/).
+- 🔭 I'm working on applying **simulation-based inference** and **Bayesian experimental design** to better understand **antibiotic resistance**, under the supervision of [**Michael Gutmann**](https://michaelgutmann.github.io/) and [**Andrea Weisse**](https://chwag.github.io/people/andreaWeisse/).
 - ⛰️ I'm a passionate **mountain runner** who has [represented Chile](https://runchile.cl/chilenos-destacan-entre-los-sudamericanos-del-short-trail-en-canfrancpirineos-2025/) at the [World Mountain and Trail Running Championships](https://canfrancpirineos2025wmtrc.com/).
 - 😄 Pronouns: he / him.
 - 🦠 I’m looking for help understanding bacteria, ***E. coli*** in particular.
