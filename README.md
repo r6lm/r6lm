@@ -13,4 +13,4 @@
 ### Contact
 
 - [ORCID](https://orcid.org/0009-0005-9052-3992)
-- [LinkedIn](www.linkedin.com/in/rodrigo-lara-molina-0568175)
+- [LinkedIn](https://www.linkedin.com/in/rodrigo-lara-molina-05681757)
